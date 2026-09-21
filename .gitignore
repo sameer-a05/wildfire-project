@@ -19,3 +19,4 @@ Miniconda*.sh
 
 # VS Code settings (optional, but good practice)
 .vscode/
+data/processed
